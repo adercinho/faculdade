@@ -22,7 +22,7 @@ public class ReservaWebServiceReservaEndpointLocator extends org.apache.axis.cli
     }
 
     // Use to get a proxy class for ReservaWebServiceImplPort
-    private java.lang.String ReservaWebServiceImplPort_address = "http://localhost:8080/ReservaAerea_Web-0.0.1-SNAPSHOT/ReservaWebService/reservaEndpoint";
+    private java.lang.String ReservaWebServiceImplPort_address = "http://localhost:8092/ReservaAerea_Web-0.0.1-SNAPSHOT/ReservaWebService/reservaEndpoint";
 
     public java.lang.String getReservaWebServiceImplPortAddress() {
         return ReservaWebServiceImplPort_address;
